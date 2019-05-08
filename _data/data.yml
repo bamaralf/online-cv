@@ -75,9 +75,10 @@ experiences:
       time: 2018 - Present
       company: Codeminer42 & Omnitrade
       details: |
-        Design the continuous delivery workflow, setting monitoring tools, elaborate scripts
+        Design the continuous delivery workflow, setting monitoring tools, elaborate CI/CD scripts
         to automate deployment tasks, create and maintain developement and production environments of
         a crypto exchange. 
+        Provide autoscalable infrastructure. 
         Optimize the use of GCP resources reducing costs.
         Implement Terraform modules.
         Migrate apps to Kubernetes clusters.
@@ -91,7 +92,8 @@ experiences:
       company: Cloudwalk Payments
       details: |
         Design the continuous delivery workflow, setting monitoring tools, elaborate scripts
-        to automate deployment tasks.
+        to automate deployment tasks using tools.
+        Provide autoscalable infrastructure. 
         Optimize use of AWS resources reducing costs.
         Develop APIs with ruby/sinatra.
         Maintain a Golang application infrastructure, continuous deployment and monitoring.
@@ -102,12 +104,13 @@ experiences:
 
     - role: SRE/Devops Engineer
       time: 2013 - 2017
-      company: Ifactory/Opentext
+      company: Ifactory/Opentext(subcontractor) & Ifactory/DevryUS(subcontractor)
       details: |
         Plan multiple deployment tracks, such as Canary Deployments, 
         Blue/Green Deployments and Rolling Upgrades System Management.
-        Answer L2/L3 technical questions from customers via Github issues/ Zendesk ticket
-        Design Infra as code using Terraform and Ansible for WSO2(https://wso2.com/) products.
+        (Opentext) Answer L2/L3 technical questions from customers via Github issues/ Zendesk ticket
+        (DevryUS)  Design Infra as code using Terraform and Ansible for WSO2(https://wso2.com/) products
+        and implementing deployment workflow using Jenkins CI.
           - Automated deployments
           - Infra as code
 
