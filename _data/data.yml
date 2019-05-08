@@ -53,9 +53,34 @@ career-profile:
       to market. 
       Setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers.
 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Linux & Unix
+        level: 95%
+
+      - name: Docker & Kubernetes 
+        level: 95%
+
+      - name: Amazon Web Services
+        level: 90%
+
+      - name: Terraform
+        level: 98%
+
+      - name: Ansible
+        level: 80%
+
+      - name: Google Cloud Platform
+        level: 90%
+
+      - name: Script languages (Bash, Ruby, Python, Golang)
+        level: 70%      
+
 education:
     - degree: BSc in Computer Engineering
-      university: Universidade Federal do CEara
+      university: Universidade Federal do Ceara
       time: 2013 - 2018
       details: |
         Computer Engineering graduation that develops a background including the following fields  
@@ -183,31 +208,6 @@ experiences:
 #       - title: A syntax directed compiler for Algol 60
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Linux & Unix
-        level: 95%
-
-      - name: Docker & Kubernetes 
-        level: 95%
-
-      - name: Amazon Web Services
-        level: 90%
-
-      - name: Terraform
-        level: 98%
-
-      - name: Ansible
-        level: 80%
-
-      - name: Google Cloud Platform
-        level: 90%
-
-      - name: Script languages (Bash, Ruby, Python, Golang)
-        level: 70%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
