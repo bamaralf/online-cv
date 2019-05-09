@@ -58,7 +58,7 @@ education:
       university: Universidade Federal do Ceara
       time: 2013 - 2018
       details: |
-        Computer Engineering graduation that develops a background including the following fields  
+        Computer Engineering graduation that developed a background including the following fields  
 
           - Script languages
           - Object Oriented Languages
@@ -76,9 +76,9 @@ experiences:
       company: Codeminer42 & Omnitrade
       details: |
         Design the continuous delivery workflow, setting monitoring tools, elaborate CI/CD scripts
-        to automate deployment tasks, create and maintain developement and production environments of
+        to automate deployment tasks, create and maintain development and production environments of
         a crypto exchange. 
-        Provide autoscalable infrastructure. 
+        Provide auto-scalable infrastructure. 
         Optimize the use of GCP resources reducing costs.
         Implement Terraform modules.
         Migrate apps to Kubernetes clusters.
@@ -93,9 +93,9 @@ experiences:
       details: |
         Design the continuous delivery workflow, setting monitoring tools, elaborate scripts
         to automate deployment tasks using tools.
-        Provide autoscalable infrastructure. 
-        Optimize use of AWS resources reducing costs.
-        Develop APIs with ruby/sinatra.
+        Provide auto-scalable infrastructure. 
+        Optimize the use of AWS resources reducing costs.
+        Develop APIs with Ruby/Sinatra.
         Maintain a Golang application infrastructure, continuous deployment and monitoring.
         Maintain the infrastructure PCI DSS compliance.
 
