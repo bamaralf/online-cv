@@ -47,12 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      SRE/DevOps Eng. that advocates for the DevOps culture adoption.
-      Advocates for applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use.
-      Devops good practices can lead to an increase in the length and frequency of the deployments that lower failure rate on new releases which reduces the meantime to apply fixes and recovery. That implies less time
-      to market. 
-      Setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers.
-
+      SRE/DevOps Eng. that advocates for the DevOps culture adoption and applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use.
+      I bring the experience of setting up and managing production environments with Docker Container Cluster Kubernetes in the mainstream cloud providers.
+      By applying Devops good practices, I achieve results that can lead to an increase in the length and frequency of the deployments that lower failure rate on new releases which reduces the meantime to apply fixes and recovery. That implies less time
+      to market.
 education:
     - degree: BSc in Computer Engineering
       university: Universidade Federal do Ceara
