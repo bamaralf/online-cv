@@ -48,10 +48,10 @@ career-profile:
     title: Career Profile
     summary: |
       SRE/DevOps Eng. that advocates for the DevOps culture adoption.
-      Advocates for applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use.
+      Advocates for applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use, setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers and baremetal.
       Devops good practices can lead to an increase in the length and frequency of the deployments that lower failure rate on new releases which reduces the meantime to apply fixes and recovery. That implies less time
       to market. 
-      Setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers.
+      
 
 education:
     - degree: BSc in Computer Engineering
@@ -75,8 +75,8 @@ experiences:
       time: 2018 - Present
       company: Codeminer42 & Omnitrade
       details: |
-        Design the continuous delivery workflow, setting monitoring tools, elaborate CI/CD scripts
-        to automate deployment tasks, create and maintain development and production environments of
+        Design the continuous delivery workflow, set monitoring tools, elaborate CI/CD scripts
+        to automate deployment tasks, create and maintain development/production environments of
         a crypto exchange. 
         Provide auto-scalable infrastructure. 
         Optimize the use of GCP resources reducing costs.
@@ -91,12 +91,12 @@ experiences:
       time: 2017 - 2018
       company: Cloudwalk Payments
       details: |
-        Design the continuous delivery workflow, setting monitoring tools, elaborate scripts
-        to automate deployment tasks using tools.
+        Design the continuous delivery workflow, set monitoring tools, elaborate scripts/playbooks
+        to automate deployment tasks.
         Provide auto-scalable infrastructure. 
         Optimize the use of AWS resources reducing costs.
         Develop APIs with Ruby/Sinatra.
-        Maintain a Golang application infrastructure, continuous deployment and monitoring.
+        Maintain the Golang application infrastructure, the continuous deployment workflow and the monitoring platform.
         Maintain the infrastructure PCI DSS compliance.
 
           - PCI DSS
@@ -118,10 +118,10 @@ experiences:
       time: 2012 - 2014
       company: Dell/IEPRO (http://projetolead.com.br/index.php)
       details: |
-        Network Management such as Maintenance of Firewall/Proxy, High availability of
-        Internet links. Users management. Inventory management using the GLPI tool and OCS Reports.
-        Virtualization of servers with Microsoft Hyper-V and Virtual Box.
-        Migrate infrastructure to a mainstream Cloud Provider.
+        Network Management such as Maintenance of Firewall/Proxy and High availability of
+        Internet links. Manage user access. Perform inventory management using the GLPI tool and OCS Reports.
+        Perform virtualization of servers with Microsoft Hyper-V and Virtual Box.
+        Migrate the infrastructure to a mainstream Cloud Provider.
           - network
           - virtualization
 
@@ -129,14 +129,13 @@ experiences:
       time: 2009 - 2011
       company: ISOFARMA IND.
       details: |
-        Plan and execute routines for preventive maintenance; incident management; 
-        implementation and maintenance of structured cabled network; 
-        database maintenance/backup/management;
-        Management of the system that controls access to areas of the industry; maintenance
-        of the supervisory systems;
-        Virtualization of servers; Firewall/proxy server installation, Windows Active   
-        Directory and security policies; Installation of file sharing server, printer server and 
-        network storage;
+        Plan and execute routines for preventive maintenance and incident management; 
+        Implementation and maintain the structured cabled network; 
+        Perform database maintenance/backup/management;
+        Manage the system that controls access to areas of the facility;
+        Maintain the supervisory systems;
+        Perform virtualization of servers;
+        Set up Firewall/proxy servers, Windows Active Directory and security policies, file sharing server, printer server and network storage server;
           - sysadmin          
 
 # projects:
@@ -192,16 +191,16 @@ skills:
 
     toolset:
       - name: Linux & Unix
-        level: 95%
+        level: 90%
 
       - name: Docker & Kubernetes 
-        level: 95%
+        level: 90%
 
       - name: Amazon Web Services
         level: 90%
 
       - name: Terraform
-        level: 98%
+        level: 95%
 
       - name: Ansible
         level: 80%
