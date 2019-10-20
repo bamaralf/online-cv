@@ -47,10 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      SRE/DevOps Eng. that advocates for the DevOps culture adoption.
-      Advocates for applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use, setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers and baremetal.
-      Devops good practices can lead to an increase in the length and frequency of the deployments that lower failure rate on new releases which reduces the meantime to apply fixes and recovery. That implies less time
-      to market. 
+      SRE/DevOps Eng. that advocates for the DevOps culture adoption and advocates for applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use, setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers and baremetal.
+      Devops good practices can lead to an increase in the length and frequency of the deployments that lower failure rate on new releases which reduces the meantime to apply fixes and recovery. All these practices implies less time to market. 
       
 
 education:
@@ -58,7 +56,7 @@ education:
       university: Universidade Federal do Ceara
       time: 2013 - 2018
       details: |
-        Computer Engineering graduation that developed a background including the following fields  
+        Computer Engineering graduation with the following background  
 
           - Script languages
           - Object Oriented Languages
@@ -75,14 +73,14 @@ experiences:
       time: 2018 - Present
       company: Codeminer42 & Omnitrade
       details: |
-        Design the continuous delivery workflow, set monitoring tools, elaborate CI/CD scripts
-        to automate deployment tasks, create and maintain development/production environments of
+        Designed the continuous delivery workflow, set monitoring tools, developed CI/CD scripts
+        to automate deployment tasks, created and maintained development/production environments of
         a crypto exchange. 
-        Provide auto-scalable infrastructure. 
-        Optimize the use of GCP resources reducing costs.
-        Implement Terraform modules.
-        Migrate apps to Kubernetes clusters.
-        Implement Helm-charts.
+        Provided auto-scalable infrastructure. 
+        Optimized the use of GCP resources reducing costs.
+        Implemented Terraform modules.
+        Migrated apps to Kubernetes clusters.
+        Implemented Helm-charts.
 
           - Crypto Exchange
           - CI/CD Workflow
@@ -91,13 +89,13 @@ experiences:
       time: 2017 - 2018
       company: Cloudwalk Payments
       details: |
-        Design the continuous delivery workflow, set monitoring tools, elaborate scripts/playbooks
-        to automate deployment tasks.
-        Provide auto-scalable infrastructure. 
-        Optimize the use of AWS resources reducing costs.
-        Develop APIs with Ruby/Sinatra.
-        Maintain the Golang application infrastructure, the continuous deployment workflow and the monitoring platform.
-        Maintain the infrastructure PCI DSS compliance.
+        Designed the continuous delivery workflow, set monitoring tools, developed scripts/playbooks
+        to automate application deployment tasks.
+        Implemented an auto-scalable infrastructure. 
+        Optimized the use of AWS resources by reducing its costs and improving the overall performance.
+        Developed Ruby/Sinatra API.
+        Maintained a Golang application infrastructure, its continuous deployment workflow and its monitoring system.
+        Maintained the PCI DSS compliance by implementing PCI requirements through an Infrastructure as Code paradigm.
 
           - PCI DSS
           - Infrastructure
@@ -106,11 +104,9 @@ experiences:
       time: 2013 - 2017
       company: Ifactory/Opentext(subcontractor) & Ifactory/DevryUS(subcontractor)
       details: |
-        Plan multiple deployment tracks, such as Canary Deployments, 
-        Blue/Green Deployments and Rolling Upgrades System Management.
-        (Opentext) Answer L2/L3 technical questions from customers via Github issues/ Zendesk ticket
-        (DevryUS)  Design Infra as code using Terraform and Ansible for WSO2(https://wso2.com/) products
-        and implementing deployment workflow using Jenkins CI.
+        Planned multiple application deployment tracks, such as Canary Deployments, 
+        Blue/Green Deployments and Rolling Upgrades.
+        Implemented deployment, maintenance best practices and automation of cloud hosted services
           - Automated deployments
           - Infra as code
 
@@ -118,10 +114,9 @@ experiences:
       time: 2012 - 2014
       company: Dell/IEPRO (http://projetolead.com.br/index.php)
       details: |
-        Network Management such as Maintenance of Firewall/Proxy and High availability of
-        Internet links. Manage user access. Perform inventory management using the GLPI tool and OCS Reports.
-        Perform virtualization of servers with Microsoft Hyper-V and Virtual Box.
-        Migrate the infrastructure to a mainstream Cloud Provider.
+        Maintened the Firewall/Proxy systems.
+        Implemented inventory management system.
+        Migrated the baremetal infrastructure to a Cloud provider.
           - network
           - virtualization
 
@@ -129,13 +124,13 @@ experiences:
       time: 2009 - 2011
       company: ISOFARMA IND.
       details: |
-        Plan and execute routines for preventive maintenance and incident management; 
-        Implementation and maintain the structured cabled network; 
-        Perform database maintenance/backup/management;
-        Manage the system that controls access to areas of the facility;
-        Maintain the supervisory systems;
-        Perform virtualization of servers;
-        Set up Firewall/proxy servers, Windows Active Directory and security policies, file sharing server, printer server and network storage server;
+        Implemented routines for preventive maintenance and incident management. 
+        Implemented and maintained the structured cabled network.
+        Maintained the database hosts.
+        Managed the user access system.
+        Maintained the supervisory systems.
+        Built virtual servers.
+        Set up Firewall/proxy servers, Windows Active Directory and security policies, file sharing server, printer sharing server and network storage server.
           - sysadmin          
 
 # projects:
