@@ -69,9 +69,9 @@ education:
           - AI
             
 experiences:
-    - role: Senior Site Reliability Engineer
+    - role: Senior Site Reliability Engineer 
       time: 2018 - Present
-      company: Codeminer42 & Omnitrade
+      company: Codeminer42 (Omnitrade.io, GetG5.com) - Bend, OR - US (Remote)
       details: |
         Designed the continuous delivery workflow, set monitoring tools, developed CI/CD scripts
         to automate deployment tasks, created and maintained development/production environments of
@@ -85,7 +85,7 @@ experiences:
           - Crypto Exchange
           - CI/CD Workflow
 
-    - role: Backend/SRE Engineer
+    - role: Backend/SRE Engineer - São Paulo, SP - Brazil (Remote)
       time: 2017 - 2018
       company: Cloudwalk Payments
       details: |
