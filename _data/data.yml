@@ -85,9 +85,9 @@ experiences:
           - Crypto Exchange
           - CI/CD Workflow
 
-    - role: Backend/SRE Engineer - São Paulo, SP - Brazil (Remote)
+    - role: Backend/SRE Engineer 
       time: 2017 - 2018
-      company: Cloudwalk Payments
+      company: Cloudwalk Payments - São Paulo, SP - Brazil (Remote)
       details: |
         Designed the continuous delivery workflow, set monitoring tools, developed scripts/playbooks
         to automate application deployment tasks.
