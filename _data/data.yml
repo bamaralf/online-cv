@@ -194,14 +194,17 @@ skills:
       - name: Amazon Web Services
         level: 90%
 
+      - name: Azure
+        level: 70%
+        
+      - name: Google Cloud Platform
+        level: 90%
+
       - name: Terraform
         level: 95%
 
       - name: Ansible
         level: 80%
-
-      - name: Google Cloud Platform
-        level: 90%
 
       - name: Script languages (Bash, Ruby, Python, Golang)
         level: 70%  
