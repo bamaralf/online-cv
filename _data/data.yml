@@ -47,8 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      SRE/DevOps Eng. that advocates for the DevOps culture adoption and advocates for applying as much as feasible automation in CI/CD workflows, implementing infrastructure as code and optimizing Hardware/Cloud resources use, setting up and managing Docker Container Clusters Kubernetes in the mainstream cloud providers and baremetal.
-      Devops good practices can lead to an increase in the length and frequency of the deployments that lower failure rate on new releases which reduces the meantime to apply fixes and recovery. All these practices implies less time to market. 
+      I am an SRE/DevOps Eng. that advocates for the DevOps culture adoption and advocates for applying as much automation as feasible. 
+      I also have the practice to apply infrastructure as code and optimize hardware and cloud resources use.
+      I performed consulting for several projects that request setting up and managing Kubernetes Container Clusters in cloud providers and bare-metal. 
       
 
 education:
@@ -71,66 +72,85 @@ education:
 experiences:
     - role: Senior Site Reliability Engineer 
       time: 2018 - Present
-      company: Codeminer42 (Omnitrade.io, GetG5.com) - Bend, OR - US (Remote)
+      company: Codeminer42, Omnitrade.io, GetG5.com, Aero.com
       details: |
-        Designed the continuous delivery workflow, set monitoring tools, developed CI/CD scripts
-        to automate deployment tasks, created and maintained development/production environments of
-        a crypto exchange. 
-        Provided auto-scalable infrastructure. 
-        Optimized the use of GCP resources reducing costs.
-        Implemented Terraform modules.
-        Migrated apps to Kubernetes clusters.
-        Implemented Helm-charts.
-
-          - Crypto Exchange
-          - CI/CD Workflow
+        Designing the continuous delivery workflow
+        Maintaining development and production environments
+        Setting up monitoring and alerting tools for production environments
+        Setting up auto-scalable infrastructures
+        Optimizing the use of Cloud resources
+        Implementing Terraform modules
+        Migrating production environments to Kubernetes clusters
+        Developing Helm charts
+    
+          - Terraform
+          - Gitlab-CI, SemaphoreCI
+          - Kubernetes, KOPS,EKS (AWS), GKE (GCloud), AKS (Azure)
+          - Prometheus, Grafana, GCP Stackdriver
+          - Blockchain
+          - AWS, GCP, Azure
 
     - role: Backend/SRE Engineer 
       time: 2017 - 2018
-      company: Cloudwalk Payments - São Paulo, SP - Brazil (Remote)
+      company: Cloudwalk Payments (Cloudwalk.io)
       details: |
-        Designed the continuous delivery workflow, set monitoring tools, developed scripts/playbooks
-        to automate application deployment tasks.
-        Implemented an auto-scalable infrastructure. 
-        Optimized the use of AWS resources by reducing its costs and improving the overall performance.
-        Developed Ruby/Sinatra API.
-        Maintained a Golang application infrastructure, its continuous deployment workflow and its monitoring system.
-        Maintained the PCI DSS compliance by implementing PCI requirements through an Infrastructure as Code paradigm.
+        Designing the continuous delivery workflow 
+        Setting up monitoring and alerting tools
+        Developing Ansible playbooks
+        Migrating the production environment to an auto-scalable infrastructure on Kubernetes (AWS)
+        Optimizing the use of AWS resources by reducing its costs and improving the overall performance
+        Developing Ruby/Sinatra API to interact with VPNs status information
+        Maintaining the PCI DSS security compliance by implementing PCI requirements through an Infrastructure as Code paradigm.
 
-          - PCI DSS
-          - Infrastructure
+          - Golang
+          - Terraform
+          - Ansible
+          - JenkinsCI
+          - Kubernetes, KOPS
+          - AWS, GCP
+          - PCI DSS 
+          - Blockchain
 
     - role: SRE/Devops Engineer
       time: 2013 - 2017
-      company: Ifactory/Opentext(subcontractor) & Ifactory/DevryUS(subcontractor)
+      company: Opentext, DevryUS (subcontractors)
       details: |
-        Planned multiple application deployment tracks, such as Canary Deployments, 
-        Blue/Green Deployments and Rolling Upgrades.
-        Implemented deployment, maintenance best practices and automation of cloud hosted services
-          - Automated deployments
-          - Infra as code
+        Implementing application deployment workflows, such as Canary Deployments, Blue/Green Deployments and Rolling Upgrades.
+        Applying configuration management with Ansible
+        Perfoming Support to the Customers Support teams
+          - Middleware Support: Tomcat, Weblogic, Websphere
+          - Ansible, Chef
+          - Jmeter
+          - JenkinsCI
+          - Terrform
+          - Kubernetes
+          - AWS
+          - WSO2 tools
 
     - role: Infrastructure/Network Consultant
       time: 2012 - 2014
       company: Dell/IEPRO (http://projetolead.com.br/index.php)
       details: |
-        Maintened the Firewall/Proxy systems.
-        Implemented inventory management system.
-        Migrated the baremetal infrastructure to a Cloud provider.
-          - network
-          - virtualization
+        Maintening the Firewall/Proxy systems.
+        Implementing the inventory management system.
+        Migrating the bare-metal infrastructure to a Cloud provider.
+          - AWS
 
     - role: SysAdmin
       time: 2009 - 2011
       company: ISOFARMA IND.
       details: |
-        Implemented routines for preventive maintenance and incident management. 
-        Implemented and maintained the structured cabled network.
-        Maintained the database hosts.
-        Managed the user access system.
-        Maintained the supervisory systems.
-        Built virtual servers.
-        Set up Firewall/proxy servers, Windows Active Directory and security policies, file sharing server, printer sharing server and network storage server.
+        Implementing routines for preventive maintenance and incident management. 
+        Implementing the structured cabled network.
+        Maintaining the databases host
+        Managing the user access system.
+        Maintaining the supervisory systems.
+        Migrating bare-metal servers to  virtual machines.
+          - Firewall/proxy servers
+          - Windows Active Directory and security policies 
+          - File sharing server
+          - Printer sharing server
+          - Network storage server.
           - sysadmin          
 
 # projects:
@@ -186,7 +206,7 @@ skills:
 
     toolset:
       - name: Linux & Unix
-        level: 90%
+        level: 80%
 
       - name: Docker & Kubernetes 
         level: 90%
@@ -208,6 +228,9 @@ skills:
 
       - name: Script languages (Bash, Ruby, Python, Golang)
         level: 70%  
+
+      - name: Relational Database operations (mySQL, Postgres, MSSQL)
+        level: 70%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
