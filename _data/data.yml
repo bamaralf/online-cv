@@ -73,7 +73,7 @@ experiences:
     - role: Senior Site Reliability Engineer 
       time: 2018 - Present
       company: Codeminer42, Omnitrade.io, GetG5.com, Aero.com
-      details: |
+      details: |+
         Designing the continuous delivery workflow
         Maintaining development and production environments
         Setting up monitoring and alerting tools for production environments
@@ -93,7 +93,7 @@ experiences:
     - role: Backend/SRE Engineer 
       time: 2017 - 2018
       company: Cloudwalk Payments (Cloudwalk.io)
-      details: |
+      details: |+
         Designing the continuous delivery workflow 
         Setting up monitoring and alerting tools
         Developing Ansible playbooks
@@ -114,7 +114,7 @@ experiences:
     - role: SRE/Devops Engineer
       time: 2013 - 2017
       company: Opentext, DevryUS (subcontractors)
-      details: |
+      details: |+
         Implementing application deployment workflows, such as Canary Deployments, Blue/Green Deployments and Rolling Upgrades.
         Applying configuration management with Ansible
         Perfoming Support to the Customers Support teams
@@ -130,8 +130,8 @@ experiences:
     - role: Infrastructure/Network Consultant
       time: 2012 - 2014
       company: Dell/IEPRO (http://projetolead.com.br/index.php)
-      details: |
-        Maintening the Firewall/Proxy systems.
+      details: |+
+        Maintaining the Firewall/Proxy systems.
         Implementing the inventory management system.
         Migrating the bare-metal infrastructure to a Cloud provider.
           - AWS
@@ -139,7 +139,7 @@ experiences:
     - role: SysAdmin
       time: 2009 - 2011
       company: ISOFARMA IND.
-      details: |
+      details: |+
         Implementing routines for preventive maintenance and incident management. 
         Implementing the structured cabled network.
         Maintaining the databases host
