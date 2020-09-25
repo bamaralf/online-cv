@@ -74,13 +74,13 @@ experiences:
       time: 2018 - Present
       company: Codeminer42, Omnitrade.io, GetG5.com, Aero.com
       details: |
-        Designing the continuous delivery workflow;
-        Maintaining development and production environments;
-        Setting up monitoring and alerting tools for production environments;
-        Setting up auto-scalable infrastructures;
-        Optimizing the use of Cloud resources;
-        Implementing Terraform modules;
-        Migrating production environments to Kubernetes clusters;
+        Designing the continuous delivery workflow.
+        Maintaining development and production environments.
+        Setting up monitoring and alerting tools for production environments.
+        Setting up auto-scalable infrastructures.
+        Optimizing the use of Cloud resources.
+        Implementing Terraform modules.
+        Migrating production environments to Kubernetes clusters.
         Developing Helm charts.
     
           - Terraform
@@ -94,12 +94,12 @@ experiences:
       time: 2017 - 2018
       company: Cloudwalk Payments (Cloudwalk.io)
       details: |
-        Designing the continuous delivery workflow; 
-        Setting up monitoring and alerting tools;
-        Developing Ansible playbooks;
-        Migrating the production environment to an auto-scalable infrastructure on Kubernetes (AWS);
-        Optimizing the use of AWS resources by reducing its costs and improving the overall performance;
-        Developing Ruby/Sinatra API to interact with VPNs status information;
+        Designing the continuous delivery workflow.
+        Setting up monitoring and alerting tools.
+        Developing Ansible playbooks.
+        Migrating the production environment to an auto-scalable infrastructure on Kubernetes (AWS).
+        Optimizing the use of AWS resources by reducing its costs and improving the overall performance.
+        Developing Ruby/Sinatra API to interact with VPNs status information.
         Maintaining the PCI DSS security compliance by implementing PCI requirements through an Infrastructure as Code paradigm.
 
           - Golang
@@ -115,8 +115,8 @@ experiences:
       time: 2013 - 2017
       company: Opentext, DevryUS (subcontractors)
       details: |
-        Implementing application deployment workflows, such as Canary Deployments, Blue/Green Deployments and Rolling Upgrades;
-        Applying configuration management with Ansible;
+        Implementing application deployment workflows, such as Canary Deployments, Blue/Green Deployments and Rolling Upgrades.
+        Applying configuration management with Ansible.
         Perfoming Support to the Customers Support teams.
           - Middleware Support (Tomcat, Weblogic, Websphere)
           - Ansible, Chef
@@ -131,8 +131,8 @@ experiences:
       time: 2012 - 2014
       company: Dell/IEPRO (http://projetolead.com.br/index.php)
       details: |
-        Maintaining the Firewall/Proxy systems;
-        Implementing the inventory management system;
+        Maintaining the Firewall/Proxy systems.
+        Implementing the inventory management system.
         Migrating the bare-metal infrastructure to a Cloud provider.
           - AWS
 
@@ -140,11 +140,11 @@ experiences:
       time: 2009 - 2011
       company: ISOFARMA IND.
       details: |
-        Implementing routines for preventive maintenance and incident management; 
-        Implementing the structured cabled network;
-        Maintaining the databases host;
-        Managing the user access system;
-        Maintaining the supervisory systems;
+        Implementing routines for preventive maintenance and incident management. 
+        Implementing the structured cabled network.
+        Maintaining the databases host.
+        Managing the user access system.
+        Maintaining the supervisory systems.
         Migrating bare-metal servers to  virtual machines.
           - Firewall/proxy servers
           - Windows Active Directory and security policies 
