@@ -72,7 +72,7 @@ education:
 experiences:
     - role: Senior Site Reliability Engineer 
       time: 2018 - Present
-      company: Codeminer42, Omnitrade.io, GetG5.com, Aero.com
+      company: Codeminer42
       details: |
         Designing the continuous delivery workflow
         Maintaining development and production environments
